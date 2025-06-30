@@ -1,0 +1,14 @@
+D:\route\assinments\c#\task_3_c#\task_3_c#\bin\Debug\net8.0\task_3_c#.exe
+D:\route\assinments\c#\task_3_c#\task_3_c#\bin\Debug\net8.0\task_3_c#.deps.json
+D:\route\assinments\c#\task_3_c#\task_3_c#\bin\Debug\net8.0\task_3_c#.runtimeconfig.json
+D:\route\assinments\c#\task_3_c#\task_3_c#\bin\Debug\net8.0\task_3_c#.dll
+D:\route\assinments\c#\task_3_c#\task_3_c#\bin\Debug\net8.0\task_3_c#.pdb
+D:\route\assinments\c#\task_3_c#\task_3_c#\obj\Debug\net8.0\task_3_c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\c#\task_3_c#\task_3_c#\obj\Debug\net8.0\task_3_c#.AssemblyInfoInputs.cache
+D:\route\assinments\c#\task_3_c#\task_3_c#\obj\Debug\net8.0\task_3_c#.AssemblyInfo.cs
+D:\route\assinments\c#\task_3_c#\task_3_c#\obj\Debug\net8.0\task_3_c#.csproj.CoreCompileInputs.cache
+D:\route\assinments\c#\task_3_c#\task_3_c#\obj\Debug\net8.0\task_3_c#.dll
+D:\route\assinments\c#\task_3_c#\task_3_c#\obj\Debug\net8.0\refint\task_3_c#.dll
+D:\route\assinments\c#\task_3_c#\task_3_c#\obj\Debug\net8.0\task_3_c#.pdb
+D:\route\assinments\c#\task_3_c#\task_3_c#\obj\Debug\net8.0\task_3_c#.genruntimeconfig.cache
+D:\route\assinments\c#\task_3_c#\task_3_c#\obj\Debug\net8.0\ref\task_3_c#.dll
