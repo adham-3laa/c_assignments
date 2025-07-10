@@ -1,0 +1,14 @@
+D:\route\assinments\c#\c#_task_5\c#_task_5\bin\Debug\net8.0\c#_task_5.exe
+D:\route\assinments\c#\c#_task_5\c#_task_5\bin\Debug\net8.0\c#_task_5.deps.json
+D:\route\assinments\c#\c#_task_5\c#_task_5\bin\Debug\net8.0\c#_task_5.runtimeconfig.json
+D:\route\assinments\c#\c#_task_5\c#_task_5\bin\Debug\net8.0\c#_task_5.dll
+D:\route\assinments\c#\c#_task_5\c#_task_5\bin\Debug\net8.0\c#_task_5.pdb
+D:\route\assinments\c#\c#_task_5\c#_task_5\obj\Debug\net8.0\c#_task_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\c#\c#_task_5\c#_task_5\obj\Debug\net8.0\c#_task_5.AssemblyInfoInputs.cache
+D:\route\assinments\c#\c#_task_5\c#_task_5\obj\Debug\net8.0\c#_task_5.AssemblyInfo.cs
+D:\route\assinments\c#\c#_task_5\c#_task_5\obj\Debug\net8.0\c#_task_5.csproj.CoreCompileInputs.cache
+D:\route\assinments\c#\c#_task_5\c#_task_5\obj\Debug\net8.0\c#_task_5.dll
+D:\route\assinments\c#\c#_task_5\c#_task_5\obj\Debug\net8.0\refint\c#_task_5.dll
+D:\route\assinments\c#\c#_task_5\c#_task_5\obj\Debug\net8.0\c#_task_5.pdb
+D:\route\assinments\c#\c#_task_5\c#_task_5\obj\Debug\net8.0\c#_task_5.genruntimeconfig.cache
+D:\route\assinments\c#\c#_task_5\c#_task_5\obj\Debug\net8.0\ref\c#_task_5.dll
