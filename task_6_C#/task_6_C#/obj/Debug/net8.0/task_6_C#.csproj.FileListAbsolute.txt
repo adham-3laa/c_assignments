@@ -1,0 +1,14 @@
+D:\route\assinments\c#\task_6_C#\task_6_C#\obj\Debug\net8.0\task_6_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\c#\task_6_C#\task_6_C#\obj\Debug\net8.0\task_6_C#.AssemblyInfoInputs.cache
+D:\route\assinments\c#\task_6_C#\task_6_C#\obj\Debug\net8.0\task_6_C#.AssemblyInfo.cs
+D:\route\assinments\c#\task_6_C#\task_6_C#\obj\Debug\net8.0\task_6_C#.csproj.CoreCompileInputs.cache
+D:\route\assinments\c#\task_6_C#\task_6_C#\bin\Debug\net8.0\task_6_C#.exe
+D:\route\assinments\c#\task_6_C#\task_6_C#\bin\Debug\net8.0\task_6_C#.deps.json
+D:\route\assinments\c#\task_6_C#\task_6_C#\bin\Debug\net8.0\task_6_C#.runtimeconfig.json
+D:\route\assinments\c#\task_6_C#\task_6_C#\bin\Debug\net8.0\task_6_C#.dll
+D:\route\assinments\c#\task_6_C#\task_6_C#\bin\Debug\net8.0\task_6_C#.pdb
+D:\route\assinments\c#\task_6_C#\task_6_C#\obj\Debug\net8.0\task_6_C#.dll
+D:\route\assinments\c#\task_6_C#\task_6_C#\obj\Debug\net8.0\refint\task_6_C#.dll
+D:\route\assinments\c#\task_6_C#\task_6_C#\obj\Debug\net8.0\task_6_C#.pdb
+D:\route\assinments\c#\task_6_C#\task_6_C#\obj\Debug\net8.0\task_6_C#.genruntimeconfig.cache
+D:\route\assinments\c#\task_6_C#\task_6_C#\obj\Debug\net8.0\ref\task_6_C#.dll
