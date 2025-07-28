@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\route\\assinments\\c#\\oop_task_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB85EBE0-741A-4FB6-B9A5-0FBB4AB129AA}|oop_task_2\\oop_task_2.csproj|d:\\route\\assinments\\c#\\oop_task_2\\oop_task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB85EBE0-741A-4FB6-B9A5-0FBB4AB129AA}|oop_task_2\\oop_task_2.csproj|solutionrelative:oop_task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB85EBE0-741A-4FB6-B9A5-0FBB4AB129AA}|oop_task_2\\oop_task_2.csproj|d:\\route\\assinments\\c#\\oop_task_2\\oop_task_2\\project_3\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB85EBE0-741A-4FB6-B9A5-0FBB4AB129AA}|oop_task_2\\oop_task_2.csproj|solutionrelative:oop_task_2\\project_3\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB85EBE0-741A-4FB6-B9A5-0FBB4AB129AA}|oop_task_2\\oop_task_2.csproj|d:\\route\\assinments\\c#\\oop_task_2\\oop_task_2\\project_2\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB85EBE0-741A-4FB6-B9A5-0FBB4AB129AA}|oop_task_2\\oop_task_2.csproj|solutionrelative:oop_task_2\\project_2\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB85EBE0-741A-4FB6-B9A5-0FBB4AB129AA}|oop_task_2\\oop_task_2.csproj|d:\\route\\assinments\\c#\\oop_task_2\\oop_task_2\\project_1\\3d_point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB85EBE0-741A-4FB6-B9A5-0FBB4AB129AA}|oop_task_2\\oop_task_2.csproj|solutionrelative:oop_task_2\\project_1\\3d_point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Duration.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\oop_task_2\\oop_task_2\\project_3\\Duration.cs",
+              "RelativeDocumentMoniker": "oop_task_2\\project_3\\Duration.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\oop_task_2\\oop_task_2\\project_3\\Duration.cs",
+              "RelativeToolTip": "oop_task_2\\project_3\\Duration.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T19:26:26.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maths.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\oop_task_2\\oop_task_2\\project_2\\Maths.cs",
+              "RelativeDocumentMoniker": "oop_task_2\\project_2\\Maths.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\oop_task_2\\oop_task_2\\project_2\\Maths.cs",
+              "RelativeToolTip": "oop_task_2\\project_2\\Maths.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T19:00:41.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3D_Point.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\oop_task_2\\oop_task_2\\project_1\\3D_Point.cs",
+              "RelativeDocumentMoniker": "oop_task_2\\project_1\\3D_Point.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\oop_task_2\\oop_task_2\\project_1\\3D_Point.cs",
+              "RelativeToolTip": "oop_task_2\\project_1\\3D_Point.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAkwIIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:00:17.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\oop_task_2\\oop_task_2\\Program.cs",
+              "RelativeDocumentMoniker": "oop_task_2\\Program.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\oop_task_2\\oop_task_2\\Program.cs",
+              "RelativeToolTip": "oop_task_2\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:57:51.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
