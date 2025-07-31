@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\route\\assinments\\c#\\OOP_Task_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\part_2\\q3\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\part_2\\q3\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\part_2\\q3\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\part_2\\q3\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\part_2\\q3\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\part_2\\q3\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\part_2\\q3\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\part_2\\q3\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\part_2\\q2\\basicauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\part_2\\q2\\basicauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\part_2\\q2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\part_2\\q2\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\part_2\\q2\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\part_2\\q2\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\part_2\\q1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\part_2\\q1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\part_2\\q1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\part_2\\q1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\part_2\\q1\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\part_2\\q1\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\part_2\\q1\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\part_2\\q1\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\part_2\\q1\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\part_2\\q1\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|d:\\route\\assinments\\c#\\oop_task_3\\oop_task_3\\part_1\\part_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB67356C-C9E5-4924-842F-8BC9EB6BC61A}|OOP_Task_3\\OOP_Task_3.csproj|solutionrelative:oop_task_3\\part_1\\part_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PushNotificationService.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q3\\PushNotificationService.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\part_2\\Q3\\PushNotificationService.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q3\\PushNotificationService.cs",
+              "RelativeToolTip": "OOP_Task_3\\part_2\\Q3\\PushNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:44:42.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmsNotificationService.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q3\\SmsNotificationService.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\part_2\\Q3\\SmsNotificationService.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q3\\SmsNotificationService.cs",
+              "RelativeToolTip": "OOP_Task_3\\part_2\\Q3\\SmsNotificationService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:44:22.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailNotificationService.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q3\\EmailNotificationService.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\part_2\\Q3\\EmailNotificationService.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q3\\EmailNotificationService.cs",
+              "RelativeToolTip": "OOP_Task_3\\part_2\\Q3\\EmailNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:44:11.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q3\\INotificationService.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\part_2\\Q3\\INotificationService.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q3\\INotificationService.cs",
+              "RelativeToolTip": "OOP_Task_3\\part_2\\Q3\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:41:50.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q2\\User.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\part_2\\Q2\\User.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q2\\User.cs",
+              "RelativeToolTip": "OOP_Task_3\\part_2\\Q2\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:11:42.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicAuthenticationService.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q2\\BasicAuthenticationService.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\part_2\\Q2\\BasicAuthenticationService.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q2\\BasicAuthenticationService.cs",
+              "RelativeToolTip": "OOP_Task_3\\part_2\\Q2\\BasicAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:08:01.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q2\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\part_2\\Q2\\IAuthenticationService.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q2\\IAuthenticationService.cs",
+              "RelativeToolTip": "OOP_Task_3\\part_2\\Q2\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:05:42.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q1\\Rectangle.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\part_2\\Q1\\Rectangle.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q1\\Rectangle.cs",
+              "RelativeToolTip": "OOP_Task_3\\part_2\\Q1\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:54:14.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q1\\Circle.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\part_2\\Q1\\Circle.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q1\\Circle.cs",
+              "RelativeToolTip": "OOP_Task_3\\part_2\\Q1\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:51:53.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRectangle.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q1\\IRectangle.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\part_2\\Q1\\IRectangle.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q1\\IRectangle.cs",
+              "RelativeToolTip": "OOP_Task_3\\part_2\\Q1\\IRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:47:19.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICircle.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q1\\ICircle.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\part_2\\Q1\\ICircle.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q1\\ICircle.cs",
+              "RelativeToolTip": "OOP_Task_3\\part_2\\Q1\\ICircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:46:53.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q1\\IShape.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\part_2\\Q1\\IShape.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_2\\Q1\\IShape.cs",
+              "RelativeToolTip": "OOP_Task_3\\part_2\\Q1\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:43:12.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "part_1.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_1\\part_1.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\part_1\\part_1.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\part_1\\part_1.cs",
+              "RelativeToolTip": "OOP_Task_3\\part_1\\part_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:15:43.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Task_3\\Program.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\OOP_Task_3\\OOP_Task_3\\Program.cs",
+              "RelativeToolTip": "OOP_Task_3\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:14:25.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
