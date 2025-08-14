@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\route\\assinments\\c#\\ADV_Task_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E92CCD90-AA5F-424F-BC1E-80DD33CD344E}|ADV_Task_3\\ADV_Task_3.csproj|d:\\route\\assinments\\c#\\adv_task_3\\adv_task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92CCD90-AA5F-424F-BC1E-80DD33CD344E}|ADV_Task_3\\ADV_Task_3.csproj|solutionrelative:adv_task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV_Task_3\\ADV_Task_3\\Program.cs",
+              "RelativeDocumentMoniker": "ADV_Task_3\\Program.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV_Task_3\\ADV_Task_3\\Program.cs",
+              "RelativeToolTip": "ADV_Task_3\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:34:43.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

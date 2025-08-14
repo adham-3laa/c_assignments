@@ -1,0 +1,14 @@
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\obj\Debug\net8.0\ADV_Task_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\obj\Debug\net8.0\ADV_Task_3.AssemblyInfoInputs.cache
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\obj\Debug\net8.0\ADV_Task_3.AssemblyInfo.cs
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\obj\Debug\net8.0\ADV_Task_3.csproj.CoreCompileInputs.cache
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\bin\Debug\net8.0\ADV_Task_3.exe
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\bin\Debug\net8.0\ADV_Task_3.deps.json
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\bin\Debug\net8.0\ADV_Task_3.runtimeconfig.json
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\bin\Debug\net8.0\ADV_Task_3.dll
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\bin\Debug\net8.0\ADV_Task_3.pdb
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\obj\Debug\net8.0\ADV_Task_3.dll
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\obj\Debug\net8.0\refint\ADV_Task_3.dll
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\obj\Debug\net8.0\ADV_Task_3.pdb
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\obj\Debug\net8.0\ADV_Task_3.genruntimeconfig.cache
+D:\route\assinments\c#\ADV_Task_3\ADV_Task_3\obj\Debug\net8.0\ref\ADV_Task_3.dll
