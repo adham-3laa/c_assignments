@@ -1,0 +1,14 @@
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\obj\Debug\net8.0\ADV_Task_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\obj\Debug\net8.0\ADV_Task_4.AssemblyInfoInputs.cache
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\obj\Debug\net8.0\ADV_Task_4.AssemblyInfo.cs
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\obj\Debug\net8.0\ADV_Task_4.csproj.CoreCompileInputs.cache
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\bin\Debug\net8.0\ADV_Task_4.exe
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\bin\Debug\net8.0\ADV_Task_4.deps.json
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\bin\Debug\net8.0\ADV_Task_4.runtimeconfig.json
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\bin\Debug\net8.0\ADV_Task_4.dll
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\bin\Debug\net8.0\ADV_Task_4.pdb
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\obj\Debug\net8.0\ADV_Task_4.dll
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\obj\Debug\net8.0\refint\ADV_Task_4.dll
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\obj\Debug\net8.0\ADV_Task_4.pdb
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\obj\Debug\net8.0\ADV_Task_4.genruntimeconfig.cache
+D:\route\assinments\c#\ADV\ADV_Task_4\ADV_Task_4\obj\Debug\net8.0\ref\ADV_Task_4.dll

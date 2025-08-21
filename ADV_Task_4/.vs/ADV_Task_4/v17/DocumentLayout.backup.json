@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\route\\assinments\\c#\\ADV\\ADV_Task_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C17B99E3-3382-42C9-8490-CBA2476F0B6D}|ADV_Task_4\\ADV_Task_4.csproj|d:\\route\\assinments\\c#\\adv\\adv_task_4\\adv_task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17B99E3-3382-42C9-8490-CBA2476F0B6D}|ADV_Task_4\\ADV_Task_4.csproj|solutionrelative:adv_task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17B99E3-3382-42C9-8490-CBA2476F0B6D}|ADV_Task_4\\ADV_Task_4.csproj|d:\\route\\assinments\\c#\\adv\\adv_task_4\\adv_task_4\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17B99E3-3382-42C9-8490-CBA2476F0B6D}|ADV_Task_4\\ADV_Task_4.csproj|solutionrelative:adv_task_4\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17B99E3-3382-42C9-8490-CBA2476F0B6D}|ADV_Task_4\\ADV_Task_4.csproj|d:\\route\\assinments\\c#\\adv\\adv_task_4\\adv_task_4\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17B99E3-3382-42C9-8490-CBA2476F0B6D}|ADV_Task_4\\ADV_Task_4.csproj|solutionrelative:adv_task_4\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17B99E3-3382-42C9-8490-CBA2476F0B6D}|ADV_Task_4\\ADV_Task_4.csproj|d:\\route\\assinments\\c#\\adv\\adv_task_4\\adv_task_4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17B99E3-3382-42C9-8490-CBA2476F0B6D}|ADV_Task_4\\ADV_Task_4.csproj|solutionrelative:adv_task_4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryEngine.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\ADV_Task_4\\ADV_Task_4\\LibraryEngine.cs",
+              "RelativeDocumentMoniker": "ADV_Task_4\\LibraryEngine.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\ADV_Task_4\\ADV_Task_4\\LibraryEngine.cs",
+              "RelativeToolTip": "ADV_Task_4\\LibraryEngine.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T20:27:56.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookFunctions.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\ADV_Task_4\\ADV_Task_4\\BookFunctions.cs",
+              "RelativeDocumentMoniker": "ADV_Task_4\\BookFunctions.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\ADV_Task_4\\ADV_Task_4\\BookFunctions.cs",
+              "RelativeToolTip": "ADV_Task_4\\BookFunctions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T20:17:33.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\ADV_Task_4\\ADV_Task_4\\Book.cs",
+              "RelativeDocumentMoniker": "ADV_Task_4\\Book.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\ADV_Task_4\\ADV_Task_4\\Book.cs",
+              "RelativeToolTip": "ADV_Task_4\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:59:41.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\ADV_Task_4\\ADV_Task_4\\Program.cs",
+              "RelativeDocumentMoniker": "ADV_Task_4\\Program.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\ADV_Task_4\\ADV_Task_4\\Program.cs*",
+              "RelativeToolTip": "ADV_Task_4\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T19:58:18.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
