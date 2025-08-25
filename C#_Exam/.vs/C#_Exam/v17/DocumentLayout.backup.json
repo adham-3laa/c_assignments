@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|d:\\route\\assinments\\c#\\adv\\c#_exam\\c#_exam\\exams\\baseexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|solutionrelative:c#_exam\\exams\\baseexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|d:\\route\\assinments\\c#\\adv\\c#_exam\\c#_exam\\exams\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|solutionrelative:c#_exam\\exams\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|d:\\route\\assinments\\c#\\adv\\c#_exam\\c#_exam\\subject\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|solutionrelative:c#_exam\\subject\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|d:\\route\\assinments\\c#\\adv\\c#_exam\\c#_exam\\questions\\trueorfalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|solutionrelative:c#_exam\\questions\\trueorfalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|d:\\route\\assinments\\c#\\adv\\c#_exam\\c#_exam\\helper\\questionbulider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|solutionrelative:c#_exam\\helper\\questionbulider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|d:\\route\\assinments\\c#\\adv\\c#_exam\\c#_exam\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|solutionrelative:c#_exam\\questions\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|d:\\route\\assinments\\c#\\adv\\c#_exam\\c#_exam\\questions\\mcq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|solutionrelative:c#_exam\\questions\\mcq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|d:\\route\\assinments\\c#\\adv\\c#_exam\\c#_exam\\questions\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|solutionrelative:c#_exam\\questions\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|d:\\route\\assinments\\c#\\adv\\c#_exam\\c#_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|solutionrelative:c#_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|d:\\route\\assinments\\c#\\adv\\c#_exam\\c#_exam\\exams\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A1CDA6-ADFA-4C3A-9FB0-C94FFD42959A}|C#_Exam\\C#_Exam.csproj|solutionrelative:c#_exam\\exams\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 132,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuestionBulider.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Helper\\QuestionBulider.cs",
+              "RelativeDocumentMoniker": "C#_Exam\\Helper\\QuestionBulider.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Helper\\QuestionBulider.cs",
+              "RelativeToolTip": "C#_Exam\\Helper\\QuestionBulider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T22:23:40.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrueOrFalse.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Questions\\TrueOrFalse.cs",
+              "RelativeDocumentMoniker": "C#_Exam\\Questions\\TrueOrFalse.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Questions\\TrueOrFalse.cs",
+              "RelativeToolTip": "C#_Exam\\Questions\\TrueOrFalse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:06:24.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Exams\\FinalExam.cs",
+              "RelativeDocumentMoniker": "C#_Exam\\Exams\\FinalExam.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Exams\\FinalExam.cs",
+              "RelativeToolTip": "C#_Exam\\Exams\\FinalExam.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:02:25.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PracticalExam.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Exams\\PracticalExam.cs",
+              "RelativeDocumentMoniker": "C#_Exam\\Exams\\PracticalExam.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Exams\\PracticalExam.cs",
+              "RelativeToolTip": "C#_Exam\\Exams\\PracticalExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:01:28.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MCQ.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Questions\\MCQ.cs",
+              "RelativeDocumentMoniker": "C#_Exam\\Questions\\MCQ.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Questions\\MCQ.cs",
+              "RelativeToolTip": "C#_Exam\\Questions\\MCQ.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:52:26.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Subject\\Subject.cs",
+              "RelativeDocumentMoniker": "C#_Exam\\Subject\\Subject.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Subject\\Subject.cs",
+              "RelativeToolTip": "C#_Exam\\Subject\\Subject.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv3IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:50:19.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseExam.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Exams\\BaseExam.cs",
+              "RelativeDocumentMoniker": "C#_Exam\\Exams\\BaseExam.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Exams\\BaseExam.cs",
+              "RelativeToolTip": "C#_Exam\\Exams\\BaseExam.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:47:55.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Questions\\Answer.cs",
+              "RelativeDocumentMoniker": "C#_Exam\\Questions\\Answer.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Questions\\Answer.cs",
+              "RelativeToolTip": "C#_Exam\\Questions\\Answer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:43:19.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Questions\\Question.cs",
+              "RelativeDocumentMoniker": "C#_Exam\\Questions\\Question.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Questions\\Question.cs",
+              "RelativeToolTip": "C#_Exam\\Questions\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:35:31.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Program.cs",
+              "RelativeDocumentMoniker": "C#_Exam\\Program.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\ADV\\C#_Exam\\C#_Exam\\Program.cs",
+              "RelativeToolTip": "C#_Exam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:33:32.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

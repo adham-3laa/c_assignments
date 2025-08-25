@@ -1,0 +1,14 @@
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\obj\Debug\net8.0\C#_Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\obj\Debug\net8.0\C#_Exam.AssemblyInfoInputs.cache
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\obj\Debug\net8.0\C#_Exam.AssemblyInfo.cs
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\obj\Debug\net8.0\C#_Exam.csproj.CoreCompileInputs.cache
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\bin\Debug\net8.0\C#_Exam.exe
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\bin\Debug\net8.0\C#_Exam.deps.json
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\bin\Debug\net8.0\C#_Exam.runtimeconfig.json
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\bin\Debug\net8.0\C#_Exam.dll
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\bin\Debug\net8.0\C#_Exam.pdb
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\obj\Debug\net8.0\C#_Exam.dll
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\obj\Debug\net8.0\refint\C#_Exam.dll
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\obj\Debug\net8.0\C#_Exam.pdb
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\obj\Debug\net8.0\C#_Exam.genruntimeconfig.cache
+D:\route\assinments\c#\ADV\C#_Exam\C#_Exam\obj\Debug\net8.0\ref\C#_Exam.dll
