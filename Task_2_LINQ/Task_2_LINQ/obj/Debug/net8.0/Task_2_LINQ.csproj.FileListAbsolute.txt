@@ -1,0 +1,14 @@
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\bin\Debug\net8.0\Task_2_LINQ.exe
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\bin\Debug\net8.0\Task_2_LINQ.deps.json
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\bin\Debug\net8.0\Task_2_LINQ.runtimeconfig.json
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\bin\Debug\net8.0\Task_2_LINQ.dll
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\bin\Debug\net8.0\Task_2_LINQ.pdb
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\obj\Debug\net8.0\Task_2_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\obj\Debug\net8.0\Task_2_LINQ.AssemblyInfoInputs.cache
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\obj\Debug\net8.0\Task_2_LINQ.AssemblyInfo.cs
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\obj\Debug\net8.0\Task_2_LINQ.csproj.CoreCompileInputs.cache
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\obj\Debug\net8.0\Task_2_LINQ.dll
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\obj\Debug\net8.0\refint\Task_2_LINQ.dll
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\obj\Debug\net8.0\Task_2_LINQ.pdb
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\obj\Debug\net8.0\Task_2_LINQ.genruntimeconfig.cache
+D:\route\assinments\LINQ\Task_2_LINQ\Task_2_LINQ\obj\Debug\net8.0\ref\Task_2_LINQ.dll

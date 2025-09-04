@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\route\\assinments\\LINQ\\Task_2_LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D68BA2F-5377-461A-8EB9-5A1324BEB5EB}|Task_2_LINQ\\Task_2_LINQ.csproj|d:\\route\\assinments\\linq\\task_2_linq\\task_2_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D68BA2F-5377-461A-8EB9-5A1324BEB5EB}|Task_2_LINQ\\Task_2_LINQ.csproj|solutionrelative:task_2_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D68BA2F-5377-461A-8EB9-5A1324BEB5EB}|Task_2_LINQ\\Task_2_LINQ.csproj|d:\\route\\assinments\\linq\\task_2_linq\\task_2_linq\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D68BA2F-5377-461A-8EB9-5A1324BEB5EB}|Task_2_LINQ\\Task_2_LINQ.csproj|solutionrelative:task_2_linq\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D68BA2F-5377-461A-8EB9-5A1324BEB5EB}|Task_2_LINQ\\Task_2_LINQ.csproj|d:\\route\\assinments\\linq\\task_2_linq\\task_2_linq\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D68BA2F-5377-461A-8EB9-5A1324BEB5EB}|Task_2_LINQ\\Task_2_LINQ.csproj|solutionrelative:task_2_linq\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D68BA2F-5377-461A-8EB9-5A1324BEB5EB}|Task_2_LINQ\\Task_2_LINQ.csproj|d:\\route\\assinments\\linq\\task_2_linq\\task_2_linq\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D68BA2F-5377-461A-8EB9-5A1324BEB5EB}|Task_2_LINQ\\Task_2_LINQ.csproj|solutionrelative:task_2_linq\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D68BA2F-5377-461A-8EB9-5A1324BEB5EB}|Task_2_LINQ\\Task_2_LINQ.csproj|d:\\route\\assinments\\linq\\task_2_linq\\task_2_linq\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D68BA2F-5377-461A-8EB9-5A1324BEB5EB}|Task_2_LINQ\\Task_2_LINQ.csproj|solutionrelative:task_2_linq\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\LINQ\\Task_2_LINQ\\Task_2_LINQ\\Product.cs",
+              "RelativeDocumentMoniker": "Task_2_LINQ\\Product.cs",
+              "ToolTip": "D:\\route\\assinments\\LINQ\\Task_2_LINQ\\Task_2_LINQ\\Product.cs",
+              "RelativeToolTip": "Task_2_LINQ\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:54:33.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\LINQ\\Task_2_LINQ\\Task_2_LINQ\\Order.cs",
+              "RelativeDocumentMoniker": "Task_2_LINQ\\Order.cs",
+              "ToolTip": "D:\\route\\assinments\\LINQ\\Task_2_LINQ\\Task_2_LINQ\\Order.cs",
+              "RelativeToolTip": "Task_2_LINQ\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:53:46.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\LINQ\\Task_2_LINQ\\Task_2_LINQ\\Customer.cs",
+              "RelativeDocumentMoniker": "Task_2_LINQ\\Customer.cs",
+              "ToolTip": "D:\\route\\assinments\\LINQ\\Task_2_LINQ\\Task_2_LINQ\\Customer.cs",
+              "RelativeToolTip": "Task_2_LINQ\\Customer.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:52:38.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListGenerator.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\LINQ\\Task_2_LINQ\\Task_2_LINQ\\ListGenerator.cs",
+              "RelativeDocumentMoniker": "Task_2_LINQ\\ListGenerator.cs",
+              "ToolTip": "D:\\route\\assinments\\LINQ\\Task_2_LINQ\\Task_2_LINQ\\ListGenerator.cs",
+              "RelativeToolTip": "Task_2_LINQ\\ListGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:50:41.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\LINQ\\Task_2_LINQ\\Task_2_LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Task_2_LINQ\\Program.cs",
+              "ToolTip": "D:\\route\\assinments\\LINQ\\Task_2_LINQ\\Task_2_LINQ\\Program.cs*",
+              "RelativeToolTip": "Task_2_LINQ\\Program.cs*",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAIwI0BAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:48:20.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
