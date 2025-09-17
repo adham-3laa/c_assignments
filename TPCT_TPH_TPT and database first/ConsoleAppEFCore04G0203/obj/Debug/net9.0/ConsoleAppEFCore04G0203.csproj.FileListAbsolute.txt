@@ -1,0 +1,294 @@
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ConsoleAppEFCore04G0203.exe
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ConsoleAppEFCore04G0203.deps.json
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ConsoleAppEFCore04G0203.runtimeconfig.json
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ConsoleAppEFCore04G0203.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ConsoleAppEFCore04G0203.pdb
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Azure.Core.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Azure.Identity.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Humanizer.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.ClientModel.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.CodeDom.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Formats.Asn1.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Memory.Data.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Text.Json.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.csproj.AssemblyReference.cache
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.GeneratedMSBuildEditorConfig.editorconfig
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.AssemblyInfoInputs.cache
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.AssemblyInfo.cs
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.csproj.CoreCompileInputs.cache
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleA.204B6B5D.Up2Date
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\obj\Debug\net9.0\refint\ConsoleAppEFCore04G0203.dll
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.pdb
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.genruntimeconfig.cache
+F:\Career\ConsoleAppEFCore04G0203Solution\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ref\ConsoleAppEFCore04G0203.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ConsoleAppEFCore04G0203.exe
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ConsoleAppEFCore04G0203.deps.json
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ConsoleAppEFCore04G0203.runtimeconfig.json
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ConsoleAppEFCore04G0203.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ConsoleAppEFCore04G0203.pdb
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Azure.Core.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Azure.Identity.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Humanizer.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.ClientModel.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.CodeDom.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Memory.Data.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.csproj.AssemblyReference.cache
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.AssemblyInfoInputs.cache
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.AssemblyInfo.cs
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.csproj.CoreCompileInputs.cache
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleA.204B6B5D.Up2Date
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\obj\Debug\net9.0\refint\ConsoleAppEFCore04G0203.dll
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.pdb
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ConsoleAppEFCore04G0203.genruntimeconfig.cache
+D:\route\Data\6.Entity Framework Core\Session 4\Demo\TPCT_TPH_TPT and database first\ConsoleAppEFCore04G0203\obj\Debug\net9.0\ref\ConsoleAppEFCore04G0203.dll

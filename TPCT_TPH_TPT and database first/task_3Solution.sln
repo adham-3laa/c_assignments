@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPCT_TPH_TPT", "ConsoleAppEFCore04G0203\TPCT_TPH_TPT.csproj", "{799A7826-F38F-43CD-BCA1-CFCCE383EFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseFirst", "DatabaseFirst\DatabaseFirst.csproj", "{5F52B19C-8380-406A-A009-8EDE37ACB91F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{799A7826-F38F-43CD-BCA1-CFCCE383EFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{799A7826-F38F-43CD-BCA1-CFCCE383EFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{799A7826-F38F-43CD-BCA1-CFCCE383EFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{799A7826-F38F-43CD-BCA1-CFCCE383EFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F52B19C-8380-406A-A009-8EDE37ACB91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F52B19C-8380-406A-A009-8EDE37ACB91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F52B19C-8380-406A-A009-8EDE37ACB91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F52B19C-8380-406A-A009-8EDE37ACB91F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED7902E-70B8-41A0-9B95-01A683A853E1}
+	EndGlobalSection
+EndGlobal
