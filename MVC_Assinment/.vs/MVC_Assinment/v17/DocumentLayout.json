@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\route\\assinments\\MVC\\MVC_Assinment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|d:\\route\\assinments\\mvc\\mvc_assinment\\mvc_assinment\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20D6A83F-4A05-432A-81F3-1D8BFEFF18E2}|MVC_Assinment\\MVC_Assinment.csproj|solutionrelative:mvc_assinment\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "MVC_Assinment\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T18:41:11.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_Assinment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T15:52:22.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "MVC_Assinment\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T16:49:41.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVC_Assinment\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T16:52:54.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC_Assinment\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T18:03:47.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MVC_Assinment\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T18:34:12.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVC_Assinment\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T16:29:41.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Assinment\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:20:53.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVC_Assinment\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T18:31:49.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Assinment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T17:33:54.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "MVC_Assinment\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T17:59:28.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC_Assinment\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T18:15:15.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Program.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Program.cs",
+              "RelativeToolTip": "MVC_Assinment\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:12:40.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Models\\Movie.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Models\\Movie.cs",
+              "RelativeToolTip": "MVC_Assinment\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:00:27.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MVC_Assinment\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Assinment\\MVC_Assinment\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MVC_Assinment\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwDAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:44:59.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

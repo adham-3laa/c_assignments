@@ -1,0 +1,53 @@
+﻿@* @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers *@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    @* @DateTime.Now
+    @{
+        int x = 5;
+        string y = "adham";
+    } *@
+    @* Start header *@
+    <nav class="mt-5">
+        <center>
+            <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Home</a>
+            <a asp-controller="Home" asp-action="AboutUS" class="btn btn-outline-warning">About US</a>
+            <a asp-controller="Home" asp-action="Privacy" class="btn btn-outline-success">Privacy</a>
+            <a asp-controller="Home" asp-action="ContactUs" class="btn btn-light">Contact us</a>
+            <a asp-controller="Account" asp-action="Login" class="btn btn-danger">Login</a>
+            <a asp-controller="Account" asp-action="Register" class="btn btn-dark">Register</a>
+            @* <a href="/Home/Index" class="btn btn-primary">Home</a>
+            <a href="/Home/AboutUS" class="btn btn-outline-warning">About US</a>
+            <a href="/Home/Privacy" class="btn btn-outline-success">Privacy</a>
+            <a href="/Home/ContactUs" class="btn btn-light">Contact us</a>
+            <a href="/Account/Login" class="btn btn-danger">Login</a>
+            <a href="/Account/Register" class="btn btn-dark">Register</a> *@
+
+
+        </center>
+    </nav>
+    @* End header *@  
+    <div>
+        @RenderBody()
+    </div>
+    @*Start Footer*@
+    <footer class="mt-5">
+        <center>
+            <div>
+                <p>
+                    CopyRights rout @DateTime.Now.Year
+                </p>
+            </div>
+        </center>
+    </footer>
+    @*End Footer*@
+
+
+</body>
+</html>
