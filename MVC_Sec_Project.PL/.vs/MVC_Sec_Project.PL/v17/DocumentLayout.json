@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\configurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\reposatories\\departmentrepo\\departmentreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\reposatories\\departmentrepo\\departmentreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\reposatories\\departmentrepo\\idepartmentreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\reposatories\\departmentrepo\\idepartmentreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:41:41.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Program.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Program.cs",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T21:00:00.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentServices.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\DepartmentServices.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Services\\DepartmentServices.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\DepartmentServices.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Services\\DepartmentServices.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:52:40.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentReposatory.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\DepartmentRepo\\DepartmentReposatory.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Reposatories\\DepartmentRepo\\DepartmentReposatory.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\DepartmentRepo\\DepartmentReposatory.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Reposatories\\DepartmentRepo\\DepartmentReposatory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:43:08.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDepartmentReposatory.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\DepartmentRepo\\IDepartmentReposatory.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Reposatories\\DepartmentRepo\\IDepartmentReposatory.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\DepartmentRepo\\IDepartmentReposatory.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Reposatories\\DepartmentRepo\\IDepartmentReposatory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:39:10.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
