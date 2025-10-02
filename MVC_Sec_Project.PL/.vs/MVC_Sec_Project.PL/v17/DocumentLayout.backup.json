@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.bll\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.bll\\services\\idepartmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\services\\idepartmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.bll\\factories\\departmentfactory\\departmentfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\factories\\departmentfactory\\departmentfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\departmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\departmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.dal\\models\\department\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\models\\department\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\c#\\c_assignments\\mvc_sec_project.pl\\mvc_sec_project.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:55:04.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:54:59.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:49:07.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:26:13.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDepartmentServices.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\IDepartmentServices.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Services\\IDepartmentServices.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\IDepartmentServices.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Services\\IDepartmentServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:13:59.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateDepartmentDto.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\UpdateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\UpdateDepartmentDto.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\UpdateDepartmentDto.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\UpdateDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:01:49.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatedDepartmentDto.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\CreatedDepartmentDto.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\CreatedDepartmentDto.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\CreatedDepartmentDto.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\CreatedDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:47:41.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentFact.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Factories\\DepartmentFactory\\DepartmentFact.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Factories\\DepartmentFactory\\DepartmentFact.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Factories\\DepartmentFactory\\DepartmentFact.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Factories\\DepartmentFactory\\DepartmentFact.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:03:27.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Program.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Program.cs",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:57:35.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:57:28.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentServices.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\DepartmentServices.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Services\\DepartmentServices.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\DepartmentServices.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Services\\DepartmentServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:15:45.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:14:32.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\Department\\Department.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Models\\Department\\Department.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\Department\\Department.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Models\\Department\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:14:31.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentDetailsDto.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDetailsDto.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDetailsDto.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDetailsDto.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:13:19.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDto.cs",
+              "ToolTip": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDto.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:12:29.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
