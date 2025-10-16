@@ -1,0 +1,12 @@
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.DAL\bin\Debug\net9.0\MVC_Sec_Project.DAL.deps.json
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.DAL\bin\Debug\net9.0\MVC_Sec_Project.DAL.dll
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.DAL\bin\Debug\net9.0\MVC_Sec_Project.DAL.pdb
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.DAL\obj\Debug\net9.0\MVC_Sec_Project.DAL.csproj.AssemblyReference.cache
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.DAL\obj\Debug\net9.0\MVC_Sec_Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.DAL\obj\Debug\net9.0\MVC_Sec_Project.DAL.AssemblyInfoInputs.cache
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.DAL\obj\Debug\net9.0\MVC_Sec_Project.DAL.AssemblyInfo.cs
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.DAL\obj\Debug\net9.0\MVC_Sec_Project.DAL.csproj.CoreCompileInputs.cache
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.DAL\obj\Debug\net9.0\MVC_Sec_Project.DAL.dll
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.DAL\obj\Debug\net9.0\refint\MVC_Sec_Project.DAL.dll
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.DAL\obj\Debug\net9.0\MVC_Sec_Project.DAL.pdb
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.DAL\obj\Debug\net9.0\ref\MVC_Sec_Project.DAL.dll
