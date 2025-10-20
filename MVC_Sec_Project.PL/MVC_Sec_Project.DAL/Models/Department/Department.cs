@@ -1,4 +1,5 @@
-﻿using MVC_Sec_Project.DAL.Models.Shared;
+﻿using MVC_Sec_Project.DAL.Models.Employee;
+using MVC_Sec_Project.DAL.Models.Shared;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +13,7 @@ namespace MVC_Sec_Project.DAL.Models.Department
         public string Name { get; set; }
         public string Code { get; set; }
         public string? Description { get; set; }
+        public virtual ICollection<MVC_Sec_Project.DAL.Models.Employee.Employee> Employees { get; set; }
 
     }
 }

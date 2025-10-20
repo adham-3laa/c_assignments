@@ -1,5 +1,7 @@
 
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using MVC_Sec_Project.Bll.Mapping_Profiles;
 using MVC_Sec_Project.Bll.Services.Classes;
 using MVC_Sec_Project.Bll.Services.Intrfaces;
@@ -17,10 +19,18 @@ namespace MVC_Sec_Project.PL
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddControllersWithViews();
+            builder.Services.AddControllersWithViews(options =>
+            {
+                options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
+            });
             // Register the DbContext with the dependency injection container
-            builder.Services.AddDbContext<AppDbContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+            builder.Services.AddDbContext<AppDbContext>((options) =>
+            {
+                var conn = builder.Configuration.GetConnectionString("DefaultConnection");
+                options.UseSqlServer(conn).UseLazyLoadingProxies();
+
+            });
+                
             builder.Services.AddScoped<IDepartmentReposatory, DepartmentReposatory>();
             builder.Services.AddScoped<IDepartmentServices, DepartmentServices>();
             builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();

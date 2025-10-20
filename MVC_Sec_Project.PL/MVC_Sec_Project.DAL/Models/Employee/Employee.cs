@@ -20,7 +20,8 @@ namespace MVC_Sec_Project.DAL.Models.Employee
         public DateTime HiringDate { get; set; }
         public Gender Gender { get; set; }
         public EmployeeType EmployeeType { get; set; }
-
+        public virtual MVC_Sec_Project.DAL.Models.Department.Department? Department { get; set; }
+        public int? DepartmentId { get; set; }
 
 
 

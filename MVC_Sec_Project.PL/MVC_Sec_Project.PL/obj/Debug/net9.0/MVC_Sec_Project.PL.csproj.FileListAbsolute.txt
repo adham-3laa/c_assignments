@@ -340,3 +340,5 @@ D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.PL\bin\Debug\net9.0\t
 D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.PL\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.PL\bin\Debug\net9.0\AutoMapper.dll
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.PL\bin\Debug\net9.0\Castle.Core.dll
+D:\route\assinments\MVC\MVC_Sec_Project.PL\MVC_Sec_Project.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll

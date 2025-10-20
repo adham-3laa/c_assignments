@@ -21,5 +21,6 @@ namespace MVC_Sec_Project.Bll.Dto_s.EmployeeDto_s
         public string Gender { get; set; }
         [Display(Name = "Employee Type")]
         public string EmployeeType { get; set; }
+        public string? Department { get; set; }
     }
 }

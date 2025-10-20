@@ -38,6 +38,13 @@ namespace MVC_Sec_Project.DAL.Reposatories.Classes
             else
                 return _context.Set<TEntity>().Where(d => d.isDeleted == false).AsNoTracking().ToList();
         }
+        public IEnumerable<TResult> GetAll<TResult>(System.Linq.Expressions.Expression<Func<TEntity, TResult>> selector)
+        {
+            return _context.Set<TEntity>()
+                .Where(entity => entity.isDeleted == false)
+                .Select(selector).ToList();
+        }
+
 
         public TEntity? GetById(int id)
         {
@@ -50,7 +57,16 @@ namespace MVC_Sec_Project.DAL.Reposatories.Classes
             _context.Set<TEntity>().Update(Entity);
             return _context.SaveChanges();
         }
+        //public IEnumerable<TEntity> GetIEnumerable()
+        //{
+        //    return _context.Set<TEntity>();
+        //}
 
-    
-}
+        //public IQueryable<TEntity> GetIQueryable()
+        //{
+        //    return _context.Set<TEntity>();
+        //}
+
+
+    }
 }

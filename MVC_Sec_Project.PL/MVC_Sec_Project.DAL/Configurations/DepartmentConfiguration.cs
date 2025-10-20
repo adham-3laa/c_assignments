@@ -16,6 +16,10 @@ namespace MVC_Sec_Project.DAL.Configurations
             
             builder.Property(d => d.Name).HasColumnType("nvarchar(20)");
             builder.Property(d => d.Code).HasColumnType("nvarchar(20)");
+            builder.HasMany(d=>d.Employees)
+                .WithOne(e => e.Department)
+                .HasForeignKey(e => e.DepartmentId)
+                .OnDelete(DeleteBehavior.SetNull);
             base.Configure(builder);
         }
     }

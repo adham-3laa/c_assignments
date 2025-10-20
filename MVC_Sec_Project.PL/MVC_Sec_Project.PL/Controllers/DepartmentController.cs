@@ -21,32 +21,51 @@ namespace MVC_Sec_Project.PL.Controllers
         }
         public IActionResult Index()
         {
+            //ViewData["Msg"] = "Hello From View Data";
+            //ViewBag.Msg = "Hello From View Bag";
+
+            ViewData["Department"] = new DepartmentDto() { Name = "Departments List" };
+            ViewBag.Department02 = new DepartmentDto() { Name = "TestViewBag" };
             var Depts = DepartmentServices.GetAllDepartments();
             return View(Depts);
         }
         [HttpGet]
         public IActionResult Create() => View();
         [HttpPost]
-        public IActionResult Create(CreatedDepartmentDto dto)
+        [ValidateAntiForgeryToken]
+        public IActionResult Create(DepartmentViewModel departmentModel)
         {
             if (ModelState.IsValid)
             {
                 try
                 {
-                    int Result = DepartmentServices.AddDepartment(dto);
-                    if (Result > 0) return RedirectToAction("Index");
-                    else
+                    var departmentDto = new CreatedDepartmentDto()
                     {
-                        ModelState.AddModelError(string.Empty, "Department can't Be Created");
-                        return View(dto);
-                    }
+                        Code = departmentModel.Code,
+                        Name = departmentModel.Name,
+                        Description = departmentModel.Description
+                    };
+                    int Result = DepartmentServices.AddDepartment(departmentDto);
+                    //if (Result > 0) return RedirectToAction("Index");
+                    //else
+                    //{
+                    //    ModelState.AddModelError(string.Empty, "Department can't Be Created");
+                    //    return View(departmentViewModel);
+                    //}
+
+                    string msg;
+                    if (Result > 0) msg = $"Department {departmentModel.Name}  is  Department created successfully";
+                    else msg = $"Department {departmentModel.Name}  is not created , please try again";
+
+                    TempData["Message"] = msg;
+                    return RedirectToAction(nameof(Index));
                 }
                 catch (Exception ex)
                 {
                     if (webHost.IsDevelopment())
                     {
                         logger.LogError(ex.Message);
-                        return View(dto);
+                        return View(departmentModel);
                     }
                     else
                     {
@@ -58,7 +77,7 @@ namespace MVC_Sec_Project.PL.Controllers
             }
             else
             {
-                return View(dto);
+                return View(departmentModel);
             }
         }
         [HttpGet]

@@ -17,6 +17,8 @@
                 <th>@Html.DisplayNameFor(e => e.Email)</th>
                 <th>@Html.DisplayNameFor(e => e.EmployeeType)</th>
                 <th>@Html.DisplayNameFor(e => e.Age)</th>
+                <th>@Html.DisplayNameFor(e => e.Department)</th>
+
                 <th>@Html.DisplayNameFor(e => e.Salary)</th>
                 <th>@Html.DisplayNameFor(e => e.IsActive)</th>
                 <th>@Html.DisplayNameFor(e => e.Gender)</th>
@@ -33,25 +35,16 @@
                     <td>@employee.Email</td>
                     <td>@employee.EmployeeType</td>
                     <td>@employee.Age</td>
+                    <td>@(string.IsNullOrEmpty(@employee.Department) ? "No Department" : employee.Department)</td>
+
                     <td>@Html.DisplayFor(e => employee.Salary)</td>
                     <td>
                         <i class="fa @(employee.IsActive ? "fa-solid fa-circle-check text-success" : "fa-times-circle text-danger")"></i>
                     </td>
                     <td>@employee.Gender</td>
 
-                    <!-- Details Button -->
-                    <td>
-                        <a class="btn btn-primary btn-sm" asp-action="Details" asp-route-id="@employee.Id">
-                            <i class="fas fa-eye"></i> Details
-                        </a>
-                    </td>
-
-                    <!-- Edit Button -->
-                    <td>
-                        <a class="btn btn-success btn-sm" asp-action="Edit" asp-route-id="@employee.Id">
-                            <i class="fas fa-edit"></i> Edit
-                        </a>
-                    </td>
+                    <partial name="_ButtonsPartialView" model="employee.Id" />
+                  
 
                     <!-- Delete Button -->
                     <td>

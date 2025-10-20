@@ -87,6 +87,9 @@ namespace MVC_Sec_Project.DAL.Migrations
                         .HasColumnType("datetime2")
                         .HasDefaultValueSql("getdate()");
 
+                    b.Property<int?>("DepartmentId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -129,7 +132,24 @@ namespace MVC_Sec_Project.DAL.Migrations
 
                     b.HasKey("ID");
 
+                    b.HasIndex("DepartmentId");
+
                     b.ToTable("Employees");
+                });
+
+            modelBuilder.Entity("MVC_Sec_Project.DAL.Models.Employee.Employee", b =>
+                {
+                    b.HasOne("MVC_Sec_Project.DAL.Models.Department.Department", "Department")
+                        .WithMany("Employees")
+                        .HasForeignKey("DepartmentId")
+                        .OnDelete(DeleteBehavior.SetNull);
+
+                    b.Navigation("Department");
+                });
+
+            modelBuilder.Entity("MVC_Sec_Project.DAL.Models.Department.Department", b =>
+                {
+                    b.Navigation("Employees");
                 });
 #pragma warning restore 612, 618
         }
