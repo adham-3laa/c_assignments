@@ -1,0 +1,773 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\reposatories\\classes\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\reposatories\\classes\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\services\\classes\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\services\\classes\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\services\\classes\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\services\\classes\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\reposatories\\classes\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\reposatories\\classes\\genaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\reposatories\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\reposatories\\interfaces\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\reposatories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\reposatories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\services\\intrfaces\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\services\\intrfaces\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\reposatories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\reposatories\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\viewmodels\\employeevms\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\viewmodels\\employeevms\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\views\\employees\\partialviews\\_createeditpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\views\\employees\\partialviews\\_createeditpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\dto\u0027s\\employeedto\u0027s\\employeedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\dto\u0027s\\employeedto\u0027s\\employeedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\mapping profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\mapping profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\models\\employee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\models\\employee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\models\\department\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\models\\department\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\dto\u0027s\\employeedto\u0027s\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\dto\u0027s\\employeedto\u0027s\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\dto\u0027s\\employeedto\u0027s\\createdemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\dto\u0027s\\employeedto\u0027s\\createdemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\dto\u0027s\\employeedto\u0027s\\updatedemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\dto\u0027s\\employeedto\u0027s\\updatedemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\migrations\\20251016170850_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\migrations\\20251016170850_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\mvc_sec_project.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\mvc_sec_project.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\configurations\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\configurations\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\configurations\\baseentityconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\configurations\\baseentityconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\models\\shared\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\models\\shared\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\services\\intrfaces\\idepartmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\services\\intrfaces\\idepartmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\reposatories\\classes\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\reposatories\\classes\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\reposatories\\classes\\departmentreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\reposatories\\classes\\departmentreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\reposatories\\interfaces\\idepartmentreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\reposatories\\interfaces\\idepartmentreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\models\\shared\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\models\\shared\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\models\\shared\\enums\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\models\\shared\\enums\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\departmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\departmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\dto\u0027s\\departmentdto\u0027s\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9102714-FC94-4D98-9B28-51F7735DED4F}|MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj|solutionrelative:mvc_sec_project.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.bll\\factories\\departmentfactory\\departmentfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC92D6-56CE-4BF1-A484-2B6BC4F51D30}|MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj|solutionrelative:mvc_sec_project.bll\\factories\\departmentfactory\\departmentfact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|d:\\route\\assinments\\mvc\\mvc_sec_project.pl\\mvc_sec_project.dal\\migrations\\20251016171046_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745CC7E3-DE66-416A-8736-8B79D0A5D7E7}|MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj|solutionrelative:mvc_sec_project.dal\\migrations\\20251016171046_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentServices.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\Classes\\DepartmentServices.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Services\\Classes\\DepartmentServices.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\Classes\\DepartmentServices.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Services\\Classes\\DepartmentServices.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAABYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:50:28.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\Classes\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Services\\Classes\\EmployeeServices.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\Classes\\EmployeeServices.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Services\\Classes\\EmployeeServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAywAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:31:41.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Program.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Program.cs",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA3wCYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:26:34.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Classes\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Reposatories\\Classes\\UnitOfWork.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Classes\\UnitOfWork.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Reposatories\\Classes\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:35:52.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenaricRepository.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IGenaricRepository.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IGenaricRepository.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IGenaricRepository.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IGenaricRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:02:45.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:32:50.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenaricRepository.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Classes\\GenaricRepository.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Reposatories\\Classes\\GenaricRepository.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Classes\\GenaricRepository.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Reposatories\\Classes\\GenaricRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:05:31.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:57:28.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeServices.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\Intrfaces\\IEmployeeServices.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Services\\Intrfaces\\IEmployeeServices.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\Intrfaces\\IEmployeeServices.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Services\\Intrfaces\\IEmployeeServices.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:30:58.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA1wBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:31:03.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:45:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T15:41:25.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\ViewModels\\EmployeeVms\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\ViewModels\\EmployeeVms\\EmployeeViewModel.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\ViewModels\\EmployeeVms\\EmployeeViewModel.cs",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\ViewModels\\EmployeeVms\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T12:42:40.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\Department\\Department.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Models\\Department\\Department.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\Department\\Department.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Models\\Department\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:32:55.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDto.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDto.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:35:06.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\Employee\\Employee.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Models\\Employee\\Employee.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\Employee\\Employee.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Models\\Employee\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T14:33:31.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDetailsDto.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDetailsDto.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDetailsDto.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDetailsDto.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:35:49.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\appsettings.json",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\appsettings.json",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T16:59:54.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T12:39:27.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_CreateEditPartialView.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Employees\\PartialViews\\_CreateEditPartialView.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Views\\Employees\\PartialViews\\_CreateEditPartialView.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Employees\\PartialViews\\_CreateEditPartialView.cshtml",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Views\\Employees\\PartialViews\\_CreateEditPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T12:37:52.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwB0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T20:09:25.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Mapping Profiles\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Mapping Profiles\\MappingProfiles.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Mapping Profiles\\MappingProfiles.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Mapping Profiles\\MappingProfiles.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T14:20:38.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T19:16:39.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreatedEmployeeDto.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\CreatedEmployeeDto.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\CreatedEmployeeDto.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\CreatedEmployeeDto.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\CreatedEmployeeDto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:36:27.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdatedEmployeeDto.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\UpdatedEmployeeDto.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\UpdatedEmployeeDto.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\UpdatedEmployeeDto.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Dto\u0027s\\EmployeeDto\u0027s\\UpdatedEmployeeDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T13:37:12.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20251016171046_2.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Migrations\\20251016171046_2.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Migrations\\20251016171046_2.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Migrations\\20251016171046_2.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Migrations\\20251016171046_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:10:47.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T15:06:42.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T19:54:59.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20251016170850_1.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Migrations\\20251016170850_1.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Migrations\\20251016170850_1.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Migrations\\20251016170850_1.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Migrations\\20251016170850_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:08:50.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MVC_Sec_Project.PL.csproj",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T16:55:50.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAA0wIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:18:03.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployeeConfigurations.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Configurations\\EmployeeConfigurations.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Configurations\\EmployeeConfigurations.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Configurations\\EmployeeConfigurations.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Configurations\\EmployeeConfigurations.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:48:52.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\Shared\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Models\\Shared\\BaseEntity.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\Shared\\BaseEntity.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Models\\Shared\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:14:32.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntityConfigurations.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Configurations\\BaseEntityConfigurations.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Configurations\\BaseEntityConfigurations.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Configurations\\BaseEntityConfigurations.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Configurations\\BaseEntityConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T17:04:29.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IDepartmentServices.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\Intrfaces\\IDepartmentServices.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Services\\Intrfaces\\IDepartmentServices.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Services\\Intrfaces\\IDepartmentServices.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Services\\Intrfaces\\IDepartmentServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:13:59.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDto.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDto.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:12:29.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DepartmentReposatory.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Classes\\DepartmentReposatory.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Reposatories\\Classes\\DepartmentReposatory.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Classes\\DepartmentReposatory.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Reposatories\\Classes\\DepartmentReposatory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAABKwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T19:18:10.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Classes\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Reposatories\\Classes\\EmployeeRepository.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Classes\\EmployeeRepository.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Reposatories\\Classes\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:49:30.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IDepartmentReposatory.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IDepartmentReposatory.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IDepartmentReposatory.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IDepartmentReposatory.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Reposatories\\Interfaces\\IDepartmentReposatory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:46:26.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\Shared\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Models\\Shared\\Enums\\Gender.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\Shared\\Enums\\Gender.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Models\\Shared\\Enums\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:39:15.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\Shared\\Enums\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.DAL\\Models\\Shared\\Enums\\EmployeeType.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\Models\\Shared\\Enums\\EmployeeType.cs",
+              "RelativeToolTip": "MVC_Sec_Project.DAL\\Models\\Shared\\Enums\\EmployeeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:33:35.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Views\\Department\\Delete.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Views\\Department\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T18:33:49.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.PL\\Views\\Department\\Details.cshtml",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "MVC_Sec_Project.PL\\Views\\Department\\Details.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T16:38:21.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateDepartmentDto.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\UpdateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\UpdateDepartmentDto.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\UpdateDepartmentDto.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\UpdateDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:01:49.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DepartmentFact.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Factories\\DepartmentFactory\\DepartmentFact.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Factories\\DepartmentFactory\\DepartmentFact.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Factories\\DepartmentFactory\\DepartmentFact.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Factories\\DepartmentFactory\\DepartmentFact.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:03:27.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DepartmentDetailsDto.cs",
+              "DocumentMoniker": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDetailsDto.cs",
+              "RelativeDocumentMoniker": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDetailsDto.cs",
+              "ToolTip": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDetailsDto.cs",
+              "RelativeToolTip": "MVC_Sec_Project.Bll\\Dto\u0027s\\DepartmentDto\u0027s\\DepartmentDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:13:19.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
