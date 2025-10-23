@@ -2624,11 +2624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj",
+      "projectUniqueName": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj",
       "projectName": "MVC_Sec_Project.Bll",
-      "projectPath": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj",
+      "projectPath": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\MVC_Sec_Project.Bll.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\obj\\",
+      "outputPath": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.Bll\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2649,8 +2649,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj": {
-              "projectPath": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj"
+            "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj": {
+              "projectPath": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj"
             }
           }
         }

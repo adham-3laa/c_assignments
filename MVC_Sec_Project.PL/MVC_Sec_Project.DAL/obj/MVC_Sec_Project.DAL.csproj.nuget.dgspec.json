@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj": {}
+    "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj": {}
   },
   "projects": {
-    "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj": {
+    "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj",
+        "projectUniqueName": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj",
         "projectName": "MVC_Sec_Project.DAL",
-        "projectPath": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj",
+        "projectPath": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\MVC_Sec_Project.DAL.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\obj\\",
+        "outputPath": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC_Sec_Project.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f860d448225546ae8c86940f1f5e3e660da4956")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC_Sec_Project.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC_Sec_Project.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

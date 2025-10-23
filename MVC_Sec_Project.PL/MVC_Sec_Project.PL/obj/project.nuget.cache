@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5gOfviK6818=",
+  "dgSpecHash": "UBhYkMF351g=",
   "success": true,
-  "projectFilePath": "D:\\route\\assinments\\MVC\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj",
+  "projectFilePath": "D:\\route\\assinments\\c#\\c_assignments\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL\\MVC_Sec_Project.PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
